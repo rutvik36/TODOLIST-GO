@@ -1,0 +1,17 @@
+# Build output
+/bin/
+/dist/
+/tmp/
+*.exe
+*.test
+coverage.out
+*.out
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Env (never commit secrets)
+.env
+.env.*
