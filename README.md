@@ -2,6 +2,8 @@
 
 REST API for creating, listing, updating, and deleting to-dos. Matches [`instructions.md`](instructions.md).
 
+**Repository:** https://github.com/rutvik36/TODOLIST-GO
+
 ## Features
 
 - CRUD over JSON; validation for task text and RFC3339 `due_date`
